@@ -1,0 +1,15 @@
+{
+  "name": "cool",
+  "version": "1.0.0",
+  "description": "cool-site",
+  "main": "index.js",
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  },
+  "scripts": {
+    "sa": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Dudnyk",
+  "license": "ISC",
+  "dependencies": {}
+}
